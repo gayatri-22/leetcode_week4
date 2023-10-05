@@ -1,6 +1,6 @@
 class Solution {
     public int findMin(int[] nums) {
-        int start = 1;
+         int start = 1;
         int end = nums.length-1;
 
         // if array is not rotated
